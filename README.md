@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Daniel !
+### Hi there 👋 I'm Daniel ! ☀️ 
 - 🔭 I’m currently working on MERN stack application
 - 🌱 I’m currently learning MERN !
 - 💬 Ask me about anything
