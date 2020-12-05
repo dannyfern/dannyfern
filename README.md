@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning MERN !
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-fernandez-a04607148/)
-                       [Email](Danielanthonyharb@gmail.com)
+                       [Email](https://mail.google.com/mail/u/?authuser=danielanthonyharb@gmail.com)
 
